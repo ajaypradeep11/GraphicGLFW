@@ -1,0 +1,4 @@
+﻿  theMain.cpp
+D:\graphics\GDP2021_22\INFO6028\ILoveOpenGL\ILoveOpenGL\theMain.cpp(123,25): warning C4101: 'vpos_location': unreferenced local variable
+D:\graphics\GDP2021_22\INFO6028\ILoveOpenGL\ILoveOpenGL\theMain.cpp(123,40): warning C4101: 'vcol_location': unreferenced local variable
+  ILoveOpenGL.vcxproj -> D:\graphics\GDP2021_22\INFO6028\ILoveOpenGL\x64\Debug\ILoveOpenGL.exe
